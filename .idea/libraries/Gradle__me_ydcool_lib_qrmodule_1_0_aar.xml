@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: me.ydcool.lib:qrmodule:1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/qrmodule-1.0.aar/9d4e8d834cb8cbafd7419162817b6b37/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/qrmodule-1.0.aar/9d4e8d834cb8cbafd7419162817b6b37/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.ydcool.lib/qrmodule/1.0/d5363ada4670dce2df04cebf629c02e15e0ecc7d/qrmodule-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.ydcool.lib/qrmodule/1.0/b8f0bcc17f3dd6fa11ad3d20e33119e7640b0ca0/qrmodule-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
